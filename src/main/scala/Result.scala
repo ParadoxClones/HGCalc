@@ -1,0 +1,1 @@
+case class Result (x: Int, chance: Double)
